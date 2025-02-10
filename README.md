@@ -44,10 +44,6 @@ Nodely AI is an infinite canvas for your thoughts—a platform that seamlessly c
 - **Node-Based Conversations**: Connect ideas and conversations through an intuitive node chat system
 - **Secure**: Local encrypted storage of API keys and sensitive data
 
-![screenshot](screenshot.png)
-
-![screenshot2](screenshot2.png)
-
 ![screenshot3](custommodels.png)
 
 ## Getting Started
