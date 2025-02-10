@@ -1,9 +1,9 @@
-# Curiso.ai
+# Nodely AI
 
-![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/metaspartan/curiso/total) ![GitHub License](https://img.shields.io/github/license/metaspartan/curiso) ![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/metaspartan/curiso/build.yml) ![GitHub Tag](https://img.shields.io/github/v/tag/metaspartan/curiso)
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/metaspartan/Nodely/total) ![GitHub License](https://img.shields.io/github/license/metaspartan/Nodely) ![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/metaspartan/Nodely/build.yml) ![GitHub Tag](https://img.shields.io/github/v/tag/metaspartan/Nodely)
 
 
-Curiso AI is an infinite canvas for your thoughts—a platform that seamlessly connects nodes and AI services to explore ideas in depth without repeating yourself. By guiding the direction of each conversation, Curiso.ai empowers advanced users to unlock richer, more accurate AI interactions. Created by Carsen Klock.
+Nodely AI is an infinite canvas for your thoughts—a platform that seamlessly connects nodes and AI services to explore ideas in depth without repeating yourself. By guiding the direction of each conversation, Nodely.ai empowers advanced users to unlock richer, more accurate AI interactions. Created by Carsen Klock.
 
 ## Features
 
@@ -55,7 +55,7 @@ Curiso AI is an infinite canvas for your thoughts—a platform that seamlessly c
 ### Download and Install latest release
 
 Available for Windows, macOS, and Linux.
-[Download latest release](https://github.com/metaspartan/curiso/releases/latest)
+[Download latest release](https://github.com/metaspartan/Nodely/releases/latest)
 
 ## Developers
 
@@ -77,13 +77,13 @@ cargo install tauri-cli
 2. Clone the repository:
 
 ```bash
-git clone https://github.com/metaspartan/curiso.git
+git clone https://github.com/metaspartan/Nodely.git
 ```
 
 3. Navigate to the project directory:
 
 ```bash
-cd curiso
+cd Nodely
 ```
 
 4. Install dependencies:
@@ -108,13 +108,13 @@ set OLLAMA_ORIGINS=*
 
 ## Solana Token
 
-Curiso ($CUR) is a utility token on the Solana blockchain.
+Nodely ($CUR) is a utility token on the Solana blockchain.
 
 [$CUR on Dexscreener](https://dexscreener.com/solana/8TbsZ3yH1mBHytVpmMn4qED2UeF3FgWUVt1pd5RBpump)
 
 [$CUR on Solana](https://solscan.io/token/8TbsZ3yH1mBHytVpmMn4qED2UeF3FgWUVt1pd5RBpump)
 
-[$CUR on Coingecko](https://www.coingecko.com/en/coins/curiso)
+[$CUR on Coingecko](https://www.coingecko.com/en/coins/Nodely)
 
 ### Tokenomics
 
@@ -122,16 +122,16 @@ Curiso ($CUR) is a utility token on the Solana blockchain.
 - **CUR Total Supply**: 1,000,000,000 CUR
 - **Dev Fund**: ~14,868,655 CUR, 10,000,000 locked until April 2025 with 3 month cliff of ~3,333,333 CUR per month for 3 months.
 - **Blockchain**: Solana
-- **Name**: Curiso
+- **Name**: Nodely
 - **Ticker**: CUR
 
-### Token & Curiso Roadmap
+### Token & Nodely Roadmap
 Q1-Q3 2025 Goals:
 
 - CUR will be integrated as the main payment method for tiered premium subscriptions, making it a utility token on Solana.
 - By integrating with the Pyth network, we'll ensure stable USD pricing for your subscriptions, bringing you a consistent and reliable experience.
 - A portion of CUR used in subscription payments will be burned, supporting the token's long-term value and collectability.
-- Introduce a staking pool program where CUR holders can earn rewards, funded by a portion of Curiso subscription purchases, to support token holders.
+- Introduce a staking pool program where CUR holders can earn rewards, funded by a portion of Nodely subscription purchases, to support token holders.
 
 #### Subscription Payments
 What’s Coming: CUR will be integrated as the main payment method for premium subscriptions, making it a utility token on Solana.
@@ -143,7 +143,7 @@ What’s Coming: By integrating with the Pyth network, we'll ensure stable USD p
 What’s Coming: A portion of CUR used in subscription payments will be burned, supporting the token's long-term value and collectability.
 
 #### CUR Lock Staking Pools
-Possibility: Introduce a staking pool program where CUR holders can earn rewards, funded by a portion of Curiso subscription purchases, to support token holders.
+Possibility: Introduce a staking pool program where CUR holders can earn rewards, funded by a portion of Nodely subscription purchases, to support token holders.
 
 Stay tuned as we progress through these phases, bringing enhanced value and utility to your CUR experience. Thank you for your support and feedback as we continue to evolve!
 
@@ -157,13 +157,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Legal Disclaimer
 
-The CUR token ("CUR") is an experimental cryptocurrency token on the Solana blockchain intended for future utility within the Curiso AI platform.
+The CUR token ("CUR") is an experimental cryptocurrency token on the Solana blockchain intended for future utility within the Nodely AI platform.
 
 IMPORTANT NOTICE: Trading, holding, or engaging with cryptocurrency tokens carries inherent risks. By interacting with the CUR token, users acknowledge and agree that:
 
 1. No guarantees or warranties are made regarding current or future token utility, value, or platform integration
 2. All cryptocurrency transactions involve substantial risk of loss
-3. Neither Curiso AI nor its developers or contributors shall be held liable for any damages or losses arising from token-related activities
+3. Neither Nodely AI nor its developers or contributors shall be held liable for any damages or losses arising from token-related activities
 4. No information provided constitutes financial, legal, or investment advice
 5. Future utility features and platform integration are subject to change without notice
 6. Users are solely responsible for conducting due diligence and complying with applicable laws and regulations
@@ -176,8 +176,8 @@ Carsen Klock - [@metaspartan](https://github.com/metaspartan) [@carsenklock](htt
 
 ## Socials
 
-- [X](https://x.com/curisoai)
-- [Telegram](https://t.me/curiso_official)
+- [X](https://x.com/Nodelyai)
+- [Telegram](https://t.me/Nodely_official)
 - [Discord](https://discord.gg/xvS9ymZuH4)
 
 ## Acknowledgments
